@@ -1,0 +1,95 @@
+.custom-img{
+    width: 60%;
+    display: flex;
+    margin: auto;
+    margin-bottom: 1.4rem;
+    margin-top: -10rem;
+}
+.padding-top-2{
+    padding-top: -2rem;
+}
+.Whatsapp-button{
+    margin-left: 0.5rem;
+    font-size: 18px;
+    background-image: linear-gradient(to left, #005900 0%, #008000 51%, #1ca71c 100%);
+    border-radius: 10px;
+}
+.call-button{
+    margin-left: 0.5rem;
+    font-size: 18px;
+    background-image: linear-gradient(to left, #f30f0f 0%, #e71111 51%, #ff0000 100%);
+    border-radius: 10px;
+}
+.telegram-button{
+    font-size: 17px;
+    background-image: linear-gradient(to left, #0b0647 0%, #0f0d97 51%, #371c77 100%);
+    border-radius: 10px;
+}
+.Whatsapp-button1{
+    font-size: 13px;
+    background-image: linear-gradient(to left, #005900 0%, #008000 51%, #1ca71c 100%);
+    border-radius: 10px ;
+    padding: 10px 13px !important;
+}
+.call-button1{
+    font-size: 13px;
+    background-image: linear-gradient(to left, #f30f0f 0%, #e71111 51%, #ff0000 100%);
+    border-radius: 10px;
+    padding: 10px 13px !important;
+}
+.telegram-button1{
+    font-size: 13px;
+    background-image: linear-gradient(to left, #0b0647 0%, #0f0d97 51%, #371c77 100%);
+    border-radius: 10px;
+    padding: 10px 13px !important;
+}
+.top-line{
+    font-size: 20px !important;
+}
+@media (max-width:576px) {
+    .custom-img{
+        width: 78%;
+        display: flex;
+        margin: auto;
+        /* margin-bottom: .4rem; */
+        margin-top: -5rem;
+    }
+    .padding-top-2{
+        padding-top: 4rem;
+    }
+    .small-tag{
+        display: block !important;
+        align-items: end;
+       
+    }
+}
+.font-23{
+    font-size: 23px;
+    margin-right: 5px;
+}
+.font-17{
+    font-size: 14px;
+    margin-right: 1px;
+}
+.small-tag{
+    display: flex;
+    align-items: end;
+}
+@media (min-width:990px) {
+    
+    .height-banner{
+        height: 100vh;
+    }
+    .pt-3-1{
+        margin-top: 6rem;
+    }
+    
+}
+.p-black{
+    color: black !important;
+}
+@media (max-width:990px) {
+    .margin-bottom-0-c{
+        margin-bottom: 0px;
+    }  
+}
