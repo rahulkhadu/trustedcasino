@@ -67,9 +67,16 @@
     font-size: 23px;
     margin-right: 5px;
 }
+.font-20{
+    font-size: 20px;
+   
+}
 .font-17{
     font-size: 14px;
     margin-right: 1px;
+}
+.fs-17{
+    font-size: 17px !important;
 }
 .small-tag{
     display: flex;
